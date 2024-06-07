@@ -1,2 +1,1 @@
-# JEONGMIN_LIM
-ABOUT JEONGMIN_LIM
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMinIsBesta&layout=compact)
