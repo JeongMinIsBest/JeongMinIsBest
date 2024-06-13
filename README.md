@@ -1,6 +1,6 @@
-#Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher.
+Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher.
 
-#I'm studying LLM and preparing for making a software based on Artificial Intelligence.
+I'm studying LLM and preparing for making a software based on Artificial Intelligence.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMinIsBest&layout=compact)
