@@ -1,6 +1,7 @@
 Hi, this is JEONGMIN LIM.
 
-I'm interested in NLP and dreaming of becoming a NLP researcher.\n
+I'm interested in NLP and dreaming of becoming a NLP researcher.
+
 I'm studying LLM and preparing for making a software based on Artificial Intelligence.
 
 
