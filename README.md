@@ -1,5 +1,6 @@
 Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher.
 
+
 I'm studying LLM now and preparing for making a software based on Artificial Intelligence.
 
 
