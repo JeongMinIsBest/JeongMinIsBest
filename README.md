@@ -5,7 +5,7 @@
   
 
 <p align="center">
-  <samp> Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher. 🙋‍♀️ I'm studying LLM now and preparing for making a software based on Artificial Intelligence. 🤖 Sometimes I lead my projects and have lots of passion to do everything that I want. 🎇 Stay tuned!
+  <samp> Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher. 🙋‍♀️ I'm studying LLM now and preparing for making a software based on Artificial Intelligence. 🤖 Sometimes I lead my projects and have lots of passion to do everything that I want. 🎇 Making your imagination a reality, Stay tuned!
   </samp>
   
   
