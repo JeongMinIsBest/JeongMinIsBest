@@ -14,7 +14,8 @@
   </samp>
   
 <br/>
-<br/>    
+<br/>
+<p align="left">
 📋 Languages
 <br/>
 <br/>
