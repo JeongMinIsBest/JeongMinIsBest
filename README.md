@@ -1,3 +1,7 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=3D58B8&text='JEONGMIN'&height=200&fontSize=90&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=3D58B8)
+
 Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher.
 
 
