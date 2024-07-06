@@ -11,7 +11,7 @@
 <br/>  
 <br/>  
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMinIsBest&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMinIsBest&layout=compact) [![JeongMin's GitHub status](https://github-readme-stats.vercel.app/api?username=JeongMinIsBest&count_private=true&custom_title=JeongMinIsBest's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 <br/>
