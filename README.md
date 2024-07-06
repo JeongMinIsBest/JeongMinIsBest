@@ -2,10 +2,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3D58B8&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=3D58B8)
 
+
+
 Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher.
 
 
 I'm studying LLM now and preparing for making a software based on Artificial Intelligence.
+
+
+Sometimes I lead my projects and have lots of passion to do everything that I want.
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMinIsBest&layout=compact)
