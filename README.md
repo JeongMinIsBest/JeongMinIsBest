@@ -7,13 +7,6 @@
 <br/>
 <br/>  
 <br/>  
-
-<p align="center">
-  <a href="https://github.com/JeongMinIsBest"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=JeongMinIsBest&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" alt="JeongMin's GitHub Status" /></a>
-  <a href="https://github.com/JeongMinIsBest"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMinIsBest&layout=compact&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" /></a> </samp>
-  
-<br/>
-<br/>
 <p align="left">
 
 ### 🎓 Education
@@ -44,8 +37,11 @@
 <br/>
 
 - **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON 우수 개발자상** | NEXON, LIKELION | 2022.12
-
-
+<br/>
+<br/>
+<p align="center">
+  <a href="https://github.com/JeongMinIsBest"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=JeongMinIsBest&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" alt="JeongMin's GitHub Status" /></a>
+  <a href="https://github.com/JeongMinIsBest"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMinIsBest&layout=compact&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" /></a> </samp>
 <br/>  
 <br/> 
 
