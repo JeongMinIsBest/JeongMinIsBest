@@ -18,11 +18,12 @@
 
 ### 🎓 Education
 ---
-- **B.S., Dept. of English Language and English Literature, JeonBuk National University**
+**B.S., Dept. of English Language and English Literature, JeonBuk National University**
 <br/>
 
-- **B.S., Dept. of Computer Science and Engineering, JeonBuk National University**
+**B.S., Dept. of Computer Science and Engineering, JeonBuk National University**
 <br/>
+
 - [2022.07 ~ ] CC(Cognitive Computing) LAB | Natural Language Processing, Deep Learning, Machine Translation
 
 <br/>  
