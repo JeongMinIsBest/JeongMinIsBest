@@ -2,7 +2,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
 
 <p align="center">
-  <samp> Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher. 🙋‍♀️ I'm studying Data Science, Deep Learning, Machine Learning now in the Artificial Intelligence field. 🤖 Sometimes I lead my projects and have lots of passion to do everything that I want. 🎇 Making your imagination a reality, Stay tuned! ⭐
+  <samp> Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher. 🙋‍♀️ 
+  </samp>
+<br/>
+  <samp> I'm studying Data Science, Deep Learning, Machine Learning now in the Artificial Intelligence field. 🤖
+  </samp>
+<br/>
+  <samp> Sometimes I lead my projects and have lots of passion to do everything that I want. 🎇
+  </samp>
+<br/>
+  <samp> Making your imagination a reality, Stay tuned! ⭐
   </samp>
 <br/>
 <br/>  
