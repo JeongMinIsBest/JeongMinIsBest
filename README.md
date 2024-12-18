@@ -37,6 +37,18 @@
 <br/>
 
 - **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON 우수 개발자상** | NEXON, LIKELION | 2022.12
+
+### 🏆 Activities
+---
+- LIKELION UNIV. JBNU 11th ~ 12th | Club President | 2023.03 ~ 2024.12
+<br/>
+
+- JBNU Programming Club 'CPU' | Club Vice President | 2024.03 ~ 2024.12
+<br/>
+
+- JBNU Big Data & AI Group 'JBIG' | Club member | 2024.09 ~ 2025.08
+
+<br/>
 <br/>
 <br/>
 <p align="center">
