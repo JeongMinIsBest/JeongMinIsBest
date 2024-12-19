@@ -52,10 +52,10 @@
 - LIKELION UNIV. JBNU 11th ~ 12th | Club President | 2023.03 ~ 2024.12
 <br/>
 
-- JBNU Computer Programming Club 'CPU' | Club Vice President | 2024.03 ~ 2024.12
+- JBNU Computer Programming Club 'CPU' 38th | Club Vice President | 2024.03 ~ 2024.12
 <br/>
 
-- JBNU Big Data & AI Group 'JBIG' | Club Member | 2024.09 ~ 2025.08
+- JBNU Big Data & AI Group 'JBIG' 7th | Club Member | 2024.09 ~ 2025.08
 
 <br/>
 <br/>
