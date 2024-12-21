@@ -50,7 +50,7 @@
 
 - **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON 우수 개발자상** | NEXON, LIKELION | 2022.12
 
-### 🏆 Activities
+### 📁 Clubs
 ---
 - LIKELION UNIV. JBNU 11th ~ 12th | Club President | 2023.03 ~ 2024.12
 <br/>
