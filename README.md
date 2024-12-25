@@ -55,24 +55,36 @@
 
 ### 📚 Activities
 ---
-- 부스트코스 <Data Science 2024> 코칭스터디 리드부스터 | 네이버 커넥트재단 | 2024.07. ~ 2024.08.
+- 부스트코스 <Data Science 2024> 코칭스터디 리드부스터 | 네이버 커넥트재단 | 2024.07. - 2024.08.
 <br/>
 
-- Remote Internship 5th Session 1 수료 | CJ OliveNetworks | 2024.05. ~ 2024.08.
+- LG Aimers 5기 <Aimers / Data Intelligence> 수료 | LG AI 연구원 | 2024.07. - 2024.08.
 <br/>
 
-- 부스트코스 <Let's AI 2024> 코칭스터디 리드부스터 | 네이버 커넥트재단 | 2024.05. ~ 2024.06.
+- Remote Internship 5th Session 1 수료 | CJ OliveNetworks | 2024.05. - 2024.08.
+<br/>
+
+- 부스트코스 <Let's AI 2024> 코칭스터디 리드부스터 | 네이버 커넥트재단 | 2024.05. - 2024.06.
+<br/>
+
+- 제4회 오아시스 해커톤 개발팀 운영진 | 광주정보문화산업진흥원 | 2023.05. - 2023.08.
 <br/>
 
 ### 📁 Clubs
 ---
-- LIKELION UNIV. JBNU 11th ~ 12th | Club President | 2023.03 ~ 2024.12
+- JBNU Big Data & AI Group 'JBIG' 7th | Club Member | 2024.09. - 2025.08.
 <br/>
 
-- JBNU Computer Programming Club 'CPU' | Club Vice President | 2024.03 ~ 2024.12
+- Big Data Analysis Club 'BDA' 9th | Club Member | 2024.09. - 2025.02.
 <br/>
 
-- JBNU Big Data & AI Group 'JBIG' | Club Member | 2024.09 ~ 2025.08
+- LIKELION UNIV. JBNU 11th ~ 12th | Club President | 2023.03 - 2024.12
+<br/>
+
+- JBNU Computer Programming Club 'CPU' | Club Vice President | 2024.03 - 2024.12
+<br/>
+
+
 
 <br/>
 <br/>
