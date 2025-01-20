@@ -26,7 +26,7 @@
 - **B.S. Dept. of Computer Science and Engineering, JeonBuk National University**
 <br/>
 
-  - [2022.07 ~ 2025.02] CC(Cognitive Computing) Lab | Natural Language Processing, Deep Learning, Machine Translation
+- [2022.07 ~ 2025.02] CC(Cognitive Computing) Lab | Natural Language Processing, Deep Learning, Machine Translation
 
 ### 🏆 Honors & Awards
 ---
