@@ -21,6 +21,8 @@
 ### 🎓 Education
 ---
 - **B.S. Dept. of English Language and English Literature, JeonBuk National University**
+
+  - English Literature(Poem, Sonnet, Novel), Linguistics(History of English, Grammar)
 <br/>
 
 - **B.S. Dept. of Computer Science and Engineering, JeonBuk National University**
