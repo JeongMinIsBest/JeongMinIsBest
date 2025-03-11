@@ -58,6 +58,9 @@
 
 ### 📚 Activities
 ---
+- LG Aimers 6기 <Aimers / Data Intelligence> 수료 | LG AI 연구원 | 2025.01. - 2024.02.
+<br/>
+
 - 부스트코스 <Data Science 2024> 코칭스터디 리드부스터 | 네이버 커넥트재단 | 2024.07. - 2024.08.
 <br/>
 
