@@ -78,20 +78,21 @@
 
 ### 📁 Clubs
 ---
-- JBNU Big Data & AI Group 'JBIG' 7th | Club Member | 2024.09. - 2025.08.
-  
+- JBNU Big Data & AI Group 'JBIG' 7th | 2024.09. - 2025.08.
   - [2025.03. - 2025.06.] Club Management Team
 <br/>
 
-- Big Data Analysis Club 'BDA' 9th | Club Member | 2024.09. - 2025.02.
+- Big Data Analysis Club 'BDA' 9th | 2024.09. - 2025.02.
+  - [2024.09. - 2025.02.] Club Member
 <br/>
 
-- LIKELION UNIV. JBNU 11th - 12th | Club President | 2023.03. - 2024.12.
+- LIKELION UNIV. JBNU 11th - 12th | 2023.03. - 2024.12.
+  - [2023.03. - 2024.12.] Club President
 <br/>
 
 - JBNU Computer Programming Club 'CPU' | Club Member | 2022.03. - 2024.12.
-
   - [2024.03. - 2024.12.] Club Vice President
+  - [2023.03. - 2023.12.] Club Management Team
 <br/>
 
 
