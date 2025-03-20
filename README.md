@@ -78,6 +78,11 @@
 
 ### 📁 Clubs
 ---
+- University MakeUs Challenge 'UMC' 8th | 2025.03. -
+
+  - [2025.03. - ] Web Front-end Development Team
+<br/>
+
 - JBNU Big Data & AI Group 'JBIG' 7th | 2024.09. - 2025.08.
   
   - [2025.03. - 2025.06.] Club Management Team
