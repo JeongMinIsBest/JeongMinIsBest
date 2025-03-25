@@ -53,6 +53,9 @@
 - **2023 융합 아이디어 공모전 최우수상** | 전북대학교 영어영문학과 | 2023.12.
 <br/>
 
+- **2023 KPMG 아이디어톤 TOP 11 본선 진출** | 삼정 KPMG | 2023.01.
+<br/>
+
 - **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON 우수 개발자상** | NEXON, LIKELION | 2022.12.
 <br/>
 
