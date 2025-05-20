@@ -5,13 +5,13 @@
   <samp> Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher. 🙋‍♀️ 
   </samp>
 <br/>
-  <samp> I'm studying Data Science, Deep Learning, Machine Learning now in the Artificial Intelligence field. 🤖
+  <samp> I'm studying Deep Learning, NLP, Data Science, Machine Learning now in the Artificial Intelligence field. 🤖
   </samp>
 <br/>
-  <samp> Sometimes I lead my projects and have lots of passion to do everything that I want. 🎇
+  <samp> I usually lead AI projects and have lots of passion to do everything that I want to study. 🎇
   </samp>
 <br/>
-  <samp> Making your imagination a reality, Stay tuned! ⭐
+  <samp> My motto is "Making our imagination a reality", Stay tuned! ⭐
   </samp>
 <br/>
 <br/>  
