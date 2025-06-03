@@ -32,7 +32,9 @@
 
 ### 👩🏻‍💻 Experience
 ---
-- **AI Research Trainee** | 모두의연구소 | 2025.06. - 
+- **AI Research Trainee** | 모두의연구소 | 2025.06. -
+
+  - Deep Learning, Machine Learning, Natural Language Processing
 <br/>
 
 
