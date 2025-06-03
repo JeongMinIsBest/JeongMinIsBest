@@ -29,6 +29,13 @@
   - [2022.07 ~ 2025.02] CC(Cognitive Computing) Lab | Natural Language Processing, Deep Learning, Machine Translation
 <br/>
 
+
+### 👩🏻‍💻 Experience
+---
+- **AI Research Trainee** | 모두의연구소 | 2025.06. - 
+<br/>
+
+
 ### 🏆 Honors & Awards
 ---
 - **LG Aimers 6th 난임 환자 대상 임신 성공 여부 예측 AI 해커톤 오프라인 본선 진출** | LG AI 연구원 | 2025.01. - 2025.04.
