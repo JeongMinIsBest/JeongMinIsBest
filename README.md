@@ -21,7 +21,6 @@
 ### 🎓 Education
 ---
 - **B.S. Dept. of English Language and English Literature, JeonBuk National University**
-  
 <br/>
 
 - **B.S. Dept. of Computer Science and Engineering, JeonBuk National University**
@@ -40,63 +39,69 @@
 
 ### 🏆 Honors & Awards
 ---
-- **전북특별자치도 공공 데이터 활용 창업 경진대회 아이디어 기획 부문 우수상(2위)** | 전북특별자치도 | 2025.07.
+- **2025 FIN:NECT Challenge National Finalist** | Fintech Center Korea, KakaoBank | 2025.07.
 <br/>
 
-- **2025학년도 1학기 SW융합 J-Point 우수 장학생** | 전북대학교 SW중심대학사업단 | 2025.07.
+- **2025 Jeonbuk State Public Data Utilization Start-up Competition - Idea Division Excellence Award (2nd Prize)** | Jeonbuk State, South Korea | 2025.07.
 <br/>
 
-- **LG Aimers 6th 난임 환자 대상 임신 성공 여부 예측 AI 해커톤 오프라인 본선 진출** | LG AI 연구원 | 2025.01. - 2025.04.
+- **SW Convergence J-Point Excellence Scholarship (Spring 2025)** | JBNU Software University | 2025.07.
 <br/>
 
-- **2024학년도 2학기 SW융합 J-Point 최우수 장학생** | 전북대학교 SW중심대학사업단 | 2024.12.
+- **LG Aimers the 6th AI Hackathon for Predicting Pregnancy Success in Infertility Patients - Finalist (Onsite Round)** | LG AI Research | 2025.01. - 2025.04.
 <br/>
 
-- **2024 문화체육관광 데이터 활용대회 최우수상** | 한국문화관광연구원 | 2024.12.
+- **SW Convergence J-Point Top Excellence Scholarship (Fall 2024)** | JBNU Software University | 2024.12.
 <br/>
 
-- **제2회 전북 청년 빅데이터 경진대회 우리은행 은행장상** | 우리은행 | 2024.12.
+- **2024 Culture, Sports and Tourism Data Utilization Competition - Grand Prize (2nd Prize)** | Korea Culture & Tourism Institute | 2024.12.
 <br/>
 
-- **2024 CO-SHOW COSS 협의회장상** | 교육부, 한국연구재단, 첨단분야 혁신융합대학사업단 협의회 | 2024.11.
+- **The 2nd Jeonbuk Youth Big Data Competition (2024) - Woori Bank President’s Award** | Woori Bank | 2024.12.
 <br/>
 
-- **제3회 신빅해 신한은행 부문 최우수상(1등)** | 빅데이터혁신융합대학사업단, 신한은행 | 2024.11.
+- **2024 CO-SHOW - COSS Chairman’s Award** | COSS(Convergence and Open Sharing System), Ministry of Education, NRF(National Research Foundation of Korea) | 2024.11.
 <br/>
 
-- **제1회 호남권 SW 창업 아이디어 경진대회 장려상** | 전북대학교 SW중심대학사업단 | 2024.09.
+- **The 3rd Shinhan Financial Group Big Data Hackathon - Banking Division 1st Prize** | Big Data University, Shinhan Financial Group | 2024.11.
 <br/>
 
-- **2023 융합 아이디어 공모전 최우수상** | 전북대학교 영어영문학과 | 2023.12.
+- **The 2nd Startup Idea Competition - Excellence Award** | JBNU Software University | 2024.11.
 <br/>
 
-- **2023 KPMG 아이디어톤 TOP 11 본선 진출** | 삼정 KPMG | 2023.01.
+- **The 1st Honam SW Startup Idea Competition - Encouragement Prize** | Ministry of Science and ICT, IITP, JBNU Software University | 2024.09.
 <br/>
 
-- **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON 우수 개발자상** | NEXON, LIKELION | 2022.12.
+- **2023 Convergence Idea Contest - Grand Prize** | JBNU Dept. of English Language and Literature | 2023.12.
+<br/>
+
+- **2023 KPMG Ideathon: From Ideas to Prototypes - Top 11 Finalist** | KPMG Korea | 2023.01.
+<br/>
+
+- **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON - Outstanding Developer Award** | NEXON, LIKELION | 2022.12.
 <br/>
 
 ### 📚 Activities
 ---
-- LG Aimers 6기 <Aimers / Data Intelligence> 수료 | LG AI 연구원 | 2025.01. - 2024.02.
+- LG Aimers 6th <Aimers / Data Intelligence> - Completed | LG AI Research | 2025.01. - 2024.02.
 <br/>
 
-- 부스트코스 <Data Science 2024> 코칭스터디 리드부스터 | 네이버 커넥트재단 | 2024.07. - 2024.08.
+- Boostcourse <Data Science 2024> Coaching Study Lead Booster | NAVER Connect Foundation | 2024.07. - 2024.08.
 <br/>
 
-- LG Aimers 5기 <Aimers / Data Intelligence> 수료 | LG AI 연구원 | 2024.07. - 2024.08.
+- LG Aimers 5th <Aimers / Data Intelligence> - Completed | LG AI Research | 2024.07. - 2024.08.
 <br/>
 
-- Remote Internship 5th Session 1 수료 | CJ OliveNetworks | 2024.05. - 2024.08.
+- Remote Internship 5th Session 1 - Completed | CJ OliveNetworks | 2024.05. - 2024.08.
 <br/>
 
-- 부스트코스 <Let's AI 2024> 코칭스터디 리드부스터 | 네이버 커넥트재단 | 2024.05. - 2024.06.
+- Boostcourse <Let's AI 2024> Coaching Lead Booster | NAVER Connect Fonudation | 2024.05. - 2024.06.
 <br/>
 
-- 서울 AI 영워크숍 | 서울 AI 허브 | 2024.04.27. - 2024.04.28.
+- Seoul AI Young Workshop - Completed | Seoul AI Hub | 2024.04.27. - 2024.04.28.
 <br/>
 
-- 제4회 오아시스 해커톤 개발팀 운영진 | 광주정보문화산업진흥원 | 2023.05. - 2023.08.
+- Management of the 4th Oasis Hackathon Development Team | Gwangju Information & Content Agency (GICON) | 2023.05. - 2023.08.
 <br/>
 
 ### 📁 Clubs
