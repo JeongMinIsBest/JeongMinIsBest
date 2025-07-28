@@ -31,7 +31,7 @@
 
 ### 👩🏻‍💻 Experience
 ---
-- **AI Research Trainee** | 모두의연구소 | 2025.07. -
+- **AI Research Trainee** | MODULABS | 2025.07. -
 
   - Deep Learning, Machine Learning, Natural Language Processing
 <br/>
