@@ -33,7 +33,7 @@
 ---
 - **AI Research Trainee** | MODULABS | 2025.07. -
 
-  - Deep Learning, Machine Learning, Natural Language Processing
+  - Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
 <br/>
 
 
