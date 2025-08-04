@@ -20,7 +20,7 @@
 
 ### 🎓 Education
 ---
-- **B.S. Dept. of English Language and English Literature, JeonBuk National University**
+- **B.A. Dept. of English Language and English Literature, JeonBuk National University**
 <br/>
 
 - **B.S. Dept. of Computer Science and Engineering, JeonBuk National University**
