@@ -106,7 +106,7 @@
 
 ### 📁 Clubs
 ---
-- **University MakeUs Challenge 'UMC' 8th** | 2025.03. - 2025.08.
+- **University MakeUs Challenge 'UMC' 8th** | 2025.03. - 2025.07.
 
   - [2025.03. - 2025.07.] Web Front-end Development Team
 <br/>
