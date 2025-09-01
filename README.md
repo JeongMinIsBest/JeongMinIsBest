@@ -39,7 +39,7 @@
 
 ### 🏆 Honors & Awards
 ---
-- **2025 FIN:NECT Challenge - National Finalist** | Fintech Center Korea, KakaoBank | 2025.07.
+- **2025 FIN:NECT Challenge - National Finalist & Awardee** | Fintech Center Korea, KakaoBank | 2025.07.
 <br/>
 
 - **2025 Jeonbuk State Public Data Utilization Start-up Competition - Idea Division Excellence Award (2nd Prize)** | Jeonbuk State, South Korea | 2025.07.
