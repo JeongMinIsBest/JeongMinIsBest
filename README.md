@@ -26,6 +26,8 @@
 - **Bachelor of Science and Engineering, Dept. of Computer Science and Engineering, JeonBuk National University**
   
   - [2022.07 ~ 2025.02] CC(Cognitive Computing) Lab | Natural Language Processing, Deep Learning, Machine Translation
+  - SW Convergence J-Point Excellence Scholarship (Spring 2025)
+  - SW Convergence J-Point Top Excellence Scholarship (Fall 2024)
 <br/>
 
 
@@ -45,13 +47,7 @@
 - **2025 Jeonbuk State Public Data Utilization Start-up Competition - Idea Division Excellence Award (2nd Prize)** | Jeonbuk State, South Korea | 2025.07.
 <br/>
 
-- **SW Convergence J-Point Excellence Scholarship (Spring 2025)** | JBNU Software University | 2025.07.
-<br/>
-
 - **LG Aimers the 6th AI Hackathon for Predicting Pregnancy Success in Infertility Patients - Finalist (Onsite Round)** | LG AI Research | 2025.01. - 2025.04.
-<br/>
-
-- **SW Convergence J-Point Top Excellence Scholarship (Fall 2024)** | JBNU Software University | 2024.12.
 <br/>
 
 - **2024 Culture, Sports and Tourism Data Utilization Competition - Grand Prize (2nd Prize)** | Korea Culture & Tourism Institute | 2024.12.
