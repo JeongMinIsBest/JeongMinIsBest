@@ -33,7 +33,7 @@
 
 ### 👩🏻‍💻 Experience
 ---
-- **AI Research Trainee** | MODULABS | 2025.07. -
+- **AIFFEL RESEARCH 14TH - AI Research Trainee** | MODULABS | 2025.07. -
 
   - Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
 <br/>
