@@ -34,6 +34,7 @@
 ### 👩🏻‍💻 Experience
 ---
 - **AIFFEL RESEARCH 14TH** | MODULABS | 2025.07. -
+
   - AI Research Trainee (NLP Specialized)
   - Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
 <br/>
