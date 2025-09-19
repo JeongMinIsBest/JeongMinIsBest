@@ -25,7 +25,7 @@
 
 - **Bachelor of Science and Engineering, Dept. of Computer Science and Engineering, JeonBuk National University**
   
-  - [2022.07 ~ 2025.02] CC(Cognitive Computing) Lab | Natural Language Processing, Deep Learning, Machine Translation
+  - [2022.07 - 2025.02] CC(Cognitive Computing) Lab | Natural Language Processing, Deep Learning, Machine Translation
   - SW Convergence J-Point Excellence Scholarship (Spring 2025)
   - SW Convergence J-Point Top Excellence Scholarship (Fall 2024)
 <br/>
