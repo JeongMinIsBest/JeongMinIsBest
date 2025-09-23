@@ -35,7 +35,7 @@
 ---
 - **AIFFEL RESEARCH 14TH** | MODULABS | 2025.07. -
 
-  - AI Research Trainee (NLP Specialized)
+  - AI Research Trainee (Specialized in Natural Language Processing)
   - Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
 <br/>
 
