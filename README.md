@@ -33,7 +33,7 @@
 
 ### 👩🏻‍💻 Experience
 ---
-- **AIFFEL RESEARCH 14TH** | MODULABS | 2025.07. -
+- **AIFFEL RESEARCH 14TH** | MODULABS | 2025.07. - 2026.01.
 
   - AI Research Trainee (Specialized in Natural Language Processing)
   - Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
