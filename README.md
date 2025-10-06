@@ -42,7 +42,7 @@
   - Performed data preprocessing and visualization (Python, Pandas, Matplotlib, Seaborn) to support model training and evaluation
 <br/>
 
-- Undergraduate Student Researcher | JBNU Cognitive Computing Lab | 2022.07. - 2025.02.
+- **Undergraduate Student Researcher** | JBNU Cognitive Computing Lab | 2022.07. - 2025.02.
 
   - Contributed to an industry–academia project on Neural Radiance Fields (NeRF) by implementing model components for 3D representation learning
   - Supported baseline experiments and evaluation pipelines for follow-up research
