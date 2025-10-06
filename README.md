@@ -36,7 +36,17 @@
 - **AIFFEL RESEARCH 14TH** | MODULABS | 2025.07. - 2026.01.
 
   - AI Research Trainee (Specialized in Natural Language Processing)
-  - Deep Learning, Machine Learning, Natural Language Processing, Computer Vision
+  - Applied Machine Learning and Deep Learning techniques to real-world datasets in NLP and Computer Vision
+  - Built and fine-tuned text classification and sentiment/emotion analysis models using PyTorch and Hugging Face Transformers
+  - Conducted experiments on CNNs and transfer learning for cross-domain Computer Vision tasks
+  - Performed data preprocessing and visualization (Python, Pandas, Matplotlib, Seaborn) to support model training and evaluation
+<br/>
+
+- Undergraduate Student Researcher | JBNU Cognitive Computing Lab | 2022.07. - 2025.02.
+
+  - Contributed to an industry–academia project on Neural Radiance Fields (NeRF) by implementing model components for 3D representation learning
+  - Supported baseline experiments and evaluation pipelines for follow-up research
+  - Attended deep learning study and paper review sessions to strengthen theoretical and practical foundations in NLP and Machine Translation
 <br/>
 
 
