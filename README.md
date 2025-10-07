@@ -15,7 +15,7 @@
   </samp>
 <br/>
 <br/>
-  <samp> My personal website: [jeongminisbest.github.io](https://jeongminisbest.github.io/)
+  <samp> My personal website: https://jeongminisbest.github.io/
   </samp>
 <br/>
 <br/>  
