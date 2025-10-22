@@ -147,7 +147,6 @@
 - Machine Learning & Data Science: NumPy, Pandas, Scikit-learn, PyTorch, Seaborn, Tensorflow, Keras
 - Natural Language Processing: KoBERT, KoBART, Hugging Face Transformers
 - Frameworks & Tools: Jupyter Notebook, Google Colab, Git, React, Flutter
-Mobile: Android (Kotlin), React Native, Flutter
 <br/>
 
 
