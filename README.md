@@ -25,8 +25,6 @@
 ### 🎓 Education
 ---
 - **Bachelor of Arts, Dept. of English Language and English Literature, JeonBuk National University**
-<br/>
-
 - **Bachelor of Science and Engineering, Dept. of Computer Science and Engineering, JeonBuk National University**
   
   - [2022.07 - 2025.02] CC(Cognitive Computing) Lab | Natural Language Processing, Deep Learning, Machine Translation
