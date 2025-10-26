@@ -17,6 +17,8 @@
 <br/>
   <samp> My personal website: https://jeongminisbest.github.io/
   </samp>
+  <samp> My Daily TIL is here: https://ljm1614.tistory.com/
+  </samp>
 <br/>
 <br/>  
 <br/>  
