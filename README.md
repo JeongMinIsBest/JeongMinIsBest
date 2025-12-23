@@ -5,7 +5,7 @@
   <samp> Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher. 🙋‍♀️ 
   </samp>
 <br/>
-  <samp> I'm studying Deep Learning, NLP, Data Science, Machine Learning now in the Artificial Intelligence field. 🤖
+  <samp> I'm studying Natural Language Processing, Deep Learning, Machine Learning now in the Artificial Intelligence field. 🤖
   </samp>
 <br/>
   <samp> I usually lead AI projects and have lots of passion to do everything that I want to study. 🎇
@@ -146,10 +146,10 @@
 
 ### 🖥️ Tech Stack
 ---
-- Programming Languages: Python, Java, JavaScript, C, Dart, C++, C#, HTML, CSS
-- Machine Learning & Data Science: NumPy, Pandas, Scikit-learn, PyTorch, Seaborn, Tensorflow, Keras
-- Natural Language Processing: KoBERT, KoBART, Hugging Face Transformers
-- Frameworks & Tools: Jupyter Notebook, Google Colab, Git, React, Flutter, Next.js, Node.js, Fast API
+- **Programming Languages**: Python, Java, JavaScript, C, Dart, C++, C#, HTML, CSS
+- **Machine Learning & Data Science**: NumPy, Pandas, Scikit-learn, PyTorch, Seaborn, Tensorflow, Keras
+- **Natural Language Processing**: KoBERT, KoBART, Hugging Face Transformers
+- **Frameworks & Tools**: Jupyter Notebook, Google Colab, Git, React, Flutter, Next.js, Node.js, Fast API
 <br/>
 
 
