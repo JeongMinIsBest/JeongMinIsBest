@@ -119,27 +119,22 @@
 ### 📁 Clubs
 ---
 - **University MakeUs Challenge 'UMC' 8th** | 2025.03. - 2025.07.
-
   - [2025.03. - 2025.07.] Web Front-end Development Team
 <br/>
 
 - **JBNU Big Data & AI Group 'JBIG' 7th** | 2024.09. - 2025.06.
-  
   - [2025.03. - 2025.06.] Club Management Team
 <br/>
 
 - **Big Data Analysis Club 'BDA' 9th** | 2024.09. - 2025.02.
-  
   - [2024.09. - 2025.02.] Club Member
 <br/>
 
 - **LIKELION UNIV. JBNU 11th - 12th** | 2023.03. - 2024.12.
-  
   - [2023.03. - 2024.12.] Club President
 <br/>
 
 - **JBNU Computer Programming Club 'CPU'** | 2022.03. - 2024.12.
-  
   - [2024.03. - 2024.12.] Club Vice President
   - [2023.03. - 2023.12.] Club Management Team
 <br/>
