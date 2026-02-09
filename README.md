@@ -96,23 +96,11 @@
 ### 📚 Activities
 ---
 - LG Aimers 6th <Aimers / Data Intelligence> - Completed | LG AI Research | 2025.01. - 2024.02.
-<br/>
-
 - Boostcourse <Data Science 2024> Coaching Study Lead Booster | NAVER Connect Foundation | 2024.07. - 2024.08.
-<br/>
-
 - LG Aimers 5th <Aimers / Data Intelligence> - Completed | LG AI Research | 2024.07. - 2024.08.
-<br/>
-
 - Remote Internship 5th Session 1 - Completed | CJ OliveNetworks | 2024.05. - 2024.08.
-<br/>
-
 - Boostcourse <Let's AI 2024> Coaching Lead Booster | NAVER Connect Fonudation | 2024.05. - 2024.06.
-<br/>
-
 - Seoul AI Young Workshop - Completed | Seoul AI Hub | 2024.04.27. - 2024.04.28.
-<br/>
-
 - Management of the 4th Oasis Hackathon Development Team | Gwangju Information & Content Agency (GICON) | 2023.05. - 2023.08.
 <br/>
 
