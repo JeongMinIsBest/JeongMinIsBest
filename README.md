@@ -77,7 +77,7 @@
   - Korea Culture & Tourism Institute | 2024.12.
 <br/>
 
-- 🥈 **The 2nd Jeonbuk Youth Big Data Competition (2024) - Woori Bank President’s Award**
+- 🏅 **The 2nd Jeonbuk Youth Big Data Competition (2024) - Woori Bank President’s Award**
   - Woori Bank | 2024.12.
 <br/>
 
@@ -97,7 +97,7 @@
   - Ministry of Science and ICT, IITP, JBNU Software University | 2024.09.
 <br/>
 
-- 🥇 **2023 Convergence Idea Contest - Grand Prize**
+- 🥈 **2023 Convergence Idea Contest - Grand Prize**
   - JBNU Dept. of English Language and Literature | 2023.12.
 <br/>
 
@@ -105,7 +105,7 @@
   - KPMG Korea | 2023.01.
 <br/>
 
-- 🎮 **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON - Outstanding Developer Award**
+- 🏅 **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON - Outstanding Developer Award**
   - NEXON, LIKELION | 2022.12.
 <br/>
 
