@@ -101,7 +101,7 @@
 - Remote Internship 5th Session 1 - Completed | CJ OliveNetworks | 2024.05. - 2024.08.
 - Boostcourse <Let's AI 2024> Coaching Lead Booster | NAVER Connect Fonudation | 2024.05. - 2024.06.
 - Seoul AI Young Workshop - Completed | Seoul AI Hub | 2024.04.27. - 2024.04.28.
-- Management of the 4th Oasis Hackathon Development Team | Gwangju Information & Content Agency (GICON) | 2023.05. - 2023.08.
+- Management of the 4th Oasis Hackathon Development Team | Gwangju Information & Content Agency | 2023.05. - 2023.08.
 <br/>
 
 ### 📁 Clubs
