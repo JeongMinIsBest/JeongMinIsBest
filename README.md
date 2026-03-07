@@ -29,31 +29,24 @@
 ---
 - **Bachelor of Arts, Dept. of English Language and English Literature, JeonBuk National University**
 - **Bachelor of Science and Engineering, Dept. of Computer Science and Engineering, JeonBuk National University**
-  
-  - [2022.07 - 2025.02] CC(Cognitive Computing) Lab | Natural Language Processing, Deep Learning, Machine Translation
-  - SW Convergence J-Point Excellence Scholarship (Spring 2025)
-  - SW Convergence J-Point Top Excellence Scholarship (Fall 2024)
 <br/>
-
 
 ### 👩🏻‍💻 Experience
 ---
-- **AIFFEL RESEARCH 14th** | MODULABS | 2025.07. - 2026.01.
-
-  - AI Research Trainee (Specialized in Natural Language Processing)
-  - Applied Machine Learning and Deep Learning techniques to real-world datasets in NLP and Computer Vision
-  - Built and fine-tuned text classification and sentiment/emotion analysis models using PyTorch and Hugging Face Transformers
-  - Conducted experiments on CNNs and transfer learning for cross-domain Computer Vision tasks
-  - Performed data preprocessing and visualization (Python, Pandas, Matplotlib, Seaborn) to support model training and evaluation
+**AIFFEL RESEARCH 14th** | MODULABS | 2025.07. - 2026.01.
+- Implemented Transformer-based NLP models including a conversational chatbot and Korean–English neural machine translation system
+- Built a Mini-BERT model from scratch to understand the architecture and training pipeline of BERT
+- Fine-tuned pre-trained language models (KLUE/BERT-base) using Hugging Face Transformers for domain-specific NLP tasks
+- Conducted experiments on RLHF pipelines (SFT, Reward Model, PPO) to simulate ChatGPT-style training workflows
+- Developed NLP models for text summarization and sentiment analysis using LSTM and sequence models
+- Implemented Computer Vision applications including facial landmark detection and image segmentation
 <br/>
 
-- **Undergraduate Student Researcher** | JBNU Cognitive Computing Lab | 2022.07. - 2025.02.
-
-  - Contributed to an industry–academia project on Neural Radiance Fields (NeRF) by implementing model components for 3D representation learning
-  - Supported baseline experiments and evaluation pipelines for follow-up research
-  - Attended deep learning study and paper review sessions to strengthen theoretical and practical foundations in NLP and Machine Translation
+**Undergraduate Student Researcher** | JBNU Cognitive Computing Lab | 2022.07. - 2025.02.
+- Contributed to an industry–academia project on Neural Radiance Fields (NeRF) by implementing model components for 3D representation learning
+- Supported baseline experiments and evaluation pipelines for follow-up research
+- Attended deep learning study and paper review sessions to strengthen theoretical and practical foundations in NLP and Machine Translation
 <br/>
-
 
 ### 🏆 Honors & Awards
 ---
