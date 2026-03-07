@@ -3,7 +3,7 @@
 
 ## ⭐ Hi, I'm JeongMin Lim
 I'm a researcher interested in Natural Language Processing and multilingual language technologies.  
-My work explores linguistic structure under practical AI constraints, especially in multilingual and low-resource settings.
+My work explores linguistic structure under practical AI constraints, especially in multilingual and low-resource settings.  
 I enjoy turning research ideas into working systems, from NLP models to end-to-end ML pipelines.
   
 - Sharing projects and updates at https://jeongminisbest.github.io/
