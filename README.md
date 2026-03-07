@@ -3,7 +3,7 @@
 
 ## ⭐ Hi, I'm JeongMin Lim
 I'm a researcher interested in Natural Language Processing and multilingual language technologies.  
-My work explores the intersection of linguistic structure and practical AI constraints, especially in multilingual and low-resource settings.  
+My work explores linguistic structure under practical AI constraints, especially in multilingual and low-resource settings.
 I enjoy turning research ideas into working systems, from NLP models to end-to-end ML pipelines.
   
 - Sharing projects and updates at https://jeongminisbest.github.io/
@@ -32,7 +32,6 @@ I enjoy turning research ideas into working systems, from NLP models to end-to-e
 <br/>
 
 ## 🏆 Honors & Awards
----
 - 📡 **2026 Jeju · AWS Global Space Challenge Hackathon - Excellence Award** | 2026.02.
 - 🏦 **2025 FIN:NECT Challenge - National Finalist & Awardee** | 2025.08.
 - 🧑🏻‍🌾 **2025 Jeonbuk State Public Data Utilization Start-up Competition - Idea Division Excellence Award** | 2025.07.
@@ -48,51 +47,19 @@ I enjoy turning research ideas into working systems, from NLP models to end-to-e
 - 🕹️ **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON - Outstanding Developer Award** | 2022.12.
 <br/>
 
-## 📚 Activities
----
-- LG Aimers 6th <Aimers / Data Intelligence> - Completed | LG AI Research | 2025.01. - 2024.02.
-- Boostcourse <Data Science 2024> Coaching Study Lead Booster | NAVER Connect Foundation | 2024.07. - 2024.08.
-- LG Aimers 5th <Aimers / Data Intelligence> - Completed | LG AI Research | 2024.07. - 2024.08.
-- Remote Internship 5th Session 1 - Completed | CJ OliveNetworks | 2024.05. - 2024.08.
-- Boostcourse <Let's AI 2024> Coaching Lead Booster | NAVER Connect Fonudation | 2024.05. - 2024.06.
-- Seoul AI Young Workshop - Completed | Seoul AI Hub | 2024.04.27. - 2024.04.28.
-- Management of the 4th Oasis Hackathon Development Team | Gwangju Information & Content Agency | 2023.05. - 2023.08.
-<br/>
-
 ## 📁 Clubs
----
 - **University MakeUs Challenge 'UMC' 8th** | 2025.03. - 2025.07.
-  - [2025.03. - 2025.07.] Web Front-end Development Team
-<br/>
-
 - **JBNU Big Data & AI Group 'JBIG' 7th** | 2024.09. - 2025.06.
-  - [2025.03. - 2025.06.] Club Management Team
-<br/>
-
 - **Big Data Analysis Club 'BDA' 9th** | 2024.09. - 2025.02.
-  - [2024.09. - 2025.02.] Club Member
-<br/>
-
-- **LIKELION UNIV. JBNU 11th - 12th** | 2023.03. - 2024.12.
-  - [2023.03. - 2024.12.] Club President
-<br/>
-
-- **JBNU Computer Programming Club 'CPU'** | 2022.03. - 2024.12.
-  - [2024.03. - 2024.12.] Club Vice President
-  - [2023.03. - 2023.12.] Club Management Team
+- **LIKELION UNIV. JBNU 11th - 12th Club President** | 2023.03. - 2024.12.
+- **JBNU Computer Programming Club 'CPU' Vice President'** | 2024.03. - 2024.12.
 <br/>
 
 ## 🖥️ Tech Stack
----
 - **Programming Languages**: Python, Java, JavaScript, C, Dart, C++, C#, HTML, CSS
 - **Machine Learning & Data Science**: NumPy, Pandas, Scikit-learn, PyTorch, Seaborn, Tensorflow, Keras
 - **Natural Language Processing**: KoBERT, KoBART, Hugging Face Transformers
 - **Frameworks & Tools**: Jupyter Notebook, Google Colab, Git, React, Flutter, Next.js, Node.js, Fast API
-<br/>
-
-
-<br/>
-<br/>
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=588beb)
