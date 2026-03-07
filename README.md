@@ -1,29 +1,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
 
-<p align="center">
-  <samp> Hi, this is JeongMin Lim, who is interested in NLP and dreaming of becoming a NLP researcher. 🙋‍♀️ 
-  </samp>
+Hi, I'm JeongMin Lim, an undergraduate researcher interested in Natural Language Processing (NLP) and multilingual language technologies.
+  
+My work explores the intersection of linguistic structure and practical AI constraints, especially in multilingual and low-resource settings.
+I enjoy turning research ideas into working systems, from NLP models to end-to-end ML pipelines.
+  
+- Sharing projects and updates at https://jeongminisbest.github.io/
+- Technical notes at https://ljm1614.tistory.com/
 <br/>
-  <samp> I'm studying Natural Language Processing, Deep Learning, Machine Learning now in the Artificial Intelligence field. 🤖
-  </samp>
-<br/>
-  <samp> I usually lead AI projects and have lots of passion to do everything that I want to study. 🎇
-  </samp>
-<br/>
-  <samp> My motto is "Making our imagination a reality", Stay tuned! ⭐
-  </samp>
-<br/>
-<br/>
-  <samp> My personal website: https://jeongminisbest.github.io/
-  </samp>
-<br/>
-  <samp> My TILs are posted here: https://ljm1614.tistory.com/
-  </samp>
-<br/>
-<br/>  
-<br/>  
-<p align="left">
 
 ### 🎓 Education
 ---
