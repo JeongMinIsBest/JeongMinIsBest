@@ -34,7 +34,7 @@
 ### 👩🏻‍💻 Experience
 ---
 **AIFFEL RESEARCH 14th** | MODULABS | 2025.07. - 2026.01.
-- Implemented Transformer-based NLP models including a conversational chatbot and Korean–English neural machine translation system
+- Implemented Transformer-based NLP systems (chatbot, Korean–English machine translation)
 - Built a Mini-BERT model from scratch to understand the architecture and training pipeline of BERT
 - Fine-tuned pre-trained language models (KLUE/BERT-base) using Hugging Face Transformers for domain-specific NLP tasks
 - Conducted experiments on RLHF pipelines (SFT, Reward Model, PPO) to simulate ChatGPT-style training workflows
@@ -43,9 +43,9 @@
 <br/>
 
 **Undergraduate Student Researcher** | JBNU Cognitive Computing Lab | 2022.07. - 2025.02.
-- Contributed to an industry–academia project on Neural Radiance Fields (NeRF) by implementing model components for 3D representation learning
-- Supported baseline experiments and evaluation pipelines for follow-up research
-- Attended deep learning study and paper review sessions to strengthen theoretical and practical foundations in NLP and Machine Translation
+- Contributed to an industry–academia NeRF project for 3D representation learning
+- Implemented baseline experiments and evaluation pipelines
+- Participated in deep learning study sessions and paper reviews on NLP and Machine Translation
 <br/>
 
 ### 🏆 Honors & Awards
