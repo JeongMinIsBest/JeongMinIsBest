@@ -52,7 +52,7 @@
 - **JBNU Big Data & AI Group 'JBIG' 7th** | 2024.09. - 2025.06.
 - **Big Data Analysis Club 'BDA' 9th** | 2024.09. - 2025.02.
 - **LIKELION UNIV. JBNU 11th - 12th Club President** | 2023.03. - 2024.12.
-- **JBNU Computer Programming Club 'CPU' Vice President'** | 2024.03. - 2024.12.
+- **JBNU Computer Programming Club 'CPU' Vice President** | 2024.03. - 2024.12.
 <br/>
 
 ## 🖥️ Tech Stack
