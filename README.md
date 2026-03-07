@@ -1,7 +1,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
 
-Hi, I'm JeongMin Lim, an undergraduate researcher interested in Natural Language Processing and multilingual language technologies.
+Hi, I'm JeongMin Lim, a researcher interested in Natural Language Processing and multilingual language technologies.
 My work explores the intersection of linguistic structure and practical AI constraints, especially in multilingual and low-resource settings.  
 I enjoy turning research ideas into working systems, from NLP models to end-to-end ML pipelines.
   
