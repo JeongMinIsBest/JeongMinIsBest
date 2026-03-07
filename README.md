@@ -1,7 +1,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
 
-### ⭐ Hi, I'm JeongMin Lim
+## ⭐ Hi, I'm JeongMin Lim
 I'm a researcher interested in Natural Language Processing and multilingual language technologies.  
 My work explores the intersection of linguistic structure and practical AI constraints, especially in multilingual and low-resource settings.  
 I enjoy turning research ideas into working systems, from NLP models to end-to-end ML pipelines.
@@ -10,14 +10,12 @@ I enjoy turning research ideas into working systems, from NLP models to end-to-e
 - Technical notes at https://ljm1614.tistory.com/
 <br/>
 
-### 🎓 Education
----
+## 🎓 Education
 - Bachelor of Arts, Dept. of English Language and English Literature, JeonBuk National University
 - Bachelor of Science and Engineering, Dept. of Computer Science and Engineering, JeonBuk National University
 <br/>
 
-### 👩🏻‍💻 Experience
----
+## 👩🏻‍💻 Experience
 **AIFFEL RESEARCH 14th | MODULABS | 2025.07. - 2026.01.**
 - Implemented Transformer-based NLP systems (chatbot, Korean–English machine translation)
 - Built a Mini-BERT model from scratch to understand the architecture and training pipeline of BERT
@@ -33,7 +31,7 @@ I enjoy turning research ideas into working systems, from NLP models to end-to-e
 - Participated in deep learning study sessions and paper reviews on NLP and Machine Translation
 <br/>
 
-### 🏆 Honors & Awards
+## 🏆 Honors & Awards
 ---
 - 📡 **2026 Jeju · AWS Global Space Challenge Hackathon - Excellence Award** | 2026.02.
 - 🏦 **2025 FIN:NECT Challenge - National Finalist & Awardee** | 2025.08.
@@ -50,7 +48,7 @@ I enjoy turning research ideas into working systems, from NLP models to end-to-e
 - 🕹️ **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON - Outstanding Developer Award** | 2022.12.
 <br/>
 
-### 📚 Activities
+## 📚 Activities
 ---
 - LG Aimers 6th <Aimers / Data Intelligence> - Completed | LG AI Research | 2025.01. - 2024.02.
 - Boostcourse <Data Science 2024> Coaching Study Lead Booster | NAVER Connect Foundation | 2024.07. - 2024.08.
@@ -61,7 +59,7 @@ I enjoy turning research ideas into working systems, from NLP models to end-to-e
 - Management of the 4th Oasis Hackathon Development Team | Gwangju Information & Content Agency | 2023.05. - 2023.08.
 <br/>
 
-### 📁 Clubs
+## 📁 Clubs
 ---
 - **University MakeUs Challenge 'UMC' 8th** | 2025.03. - 2025.07.
   - [2025.03. - 2025.07.] Web Front-end Development Team
@@ -84,7 +82,7 @@ I enjoy turning research ideas into working systems, from NLP models to end-to-e
   - [2023.03. - 2023.12.] Club Management Team
 <br/>
 
-### 🖥️ Tech Stack
+## 🖥️ Tech Stack
 ---
 - **Programming Languages**: Python, Java, JavaScript, C, Dart, C++, C#, HTML, CSS
 - **Machine Learning & Data Science**: NumPy, Pandas, Scikit-learn, PyTorch, Seaborn, Tensorflow, Keras
