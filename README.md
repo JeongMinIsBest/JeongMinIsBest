@@ -32,19 +32,19 @@
 <br/>
 
 ## 🏆 Honors & Awards
-- 📡 **2026 Jeju · AWS Global Space Challenge Hackathon - Excellence Award** | 2026.02.
-- 🏦 **2025 FIN:NECT Challenge - National Finalist & Awardee** | 2025.08.
-- 🧑🏻‍🌾 **2025 Jeonbuk State Public Data Utilization Start-up Competition - Idea Division Excellence Award** | 2025.07.
-- 🩺 **LG Aimers the 6th AI Hackathon for Predicting Pregnancy Success in Infertility Patients - Finalist (Onsite Round)** | 2025.04.
-- ✈️ **2024 Culture, Sports and Tourism Data Utilization Competition - Grand Prize (2nd Prize)** | 2024.12.
-- 🚮 **The 2nd Jeonbuk Youth Big Data Competition (2024) - Woori Bank President’s Award** | 2024.12.
-- 💙 **2024 CO-SHOW - COSS Chairman’s Award** | 2024.11.
-- 💵 **The 3rd Shinhan Financial Group Big Data Hackathon - Banking Division 1st Prize** | 2024.11.
-- 🧪 **The 2nd Startup Idea Competition - Excellence Award** | 2024.11.
-- 🔠 **The 1st Honam SW Startup Idea Competition - Encouragement Prize** | 2024.09.
-- 📖 **2023 Convergence Idea Contest - Grand Prize** | 2023.12.
-- 🧑🏻‍💼 **2023 KPMG Ideathon: From Ideas to Prototypes - Top 11 Finalist** | 2023.01.
-- 🕹️ **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON - Outstanding Developer Award** | 2022.12.
+- 2026.02. | 📡 **2026 Jeju · AWS Global Space Challenge Hackathon - Excellence Award**
+- 2025.08. | 🏦 **2025 FIN:NECT Challenge - National Finalist & Awardee**
+- 2025.07. | 🧑🏻‍🌾 **2025 Jeonbuk State Public Data Utilization Start-up Competition - Idea Division Excellence Award** 
+- 2025.04. | 🩺 **LG Aimers the 6th AI Hackathon for Predicting Pregnancy Success in Infertility Patients - Finalist (Onsite Round)** 
+- 2024.12. | ✈️ **2024 Culture, Sports and Tourism Data Utilization Competition - Grand Prize (2nd Prize)** 
+- 2024.12. | 🚮 **The 2nd Jeonbuk Youth Big Data Competition (2024) - Woori Bank President’s Award** 
+- 2024.11. | 💙 **2024 CO-SHOW - COSS Chairman’s Award** 
+- 2024.11. | 💵 **The 3rd Shinhan Financial Group Big Data Hackathon - Banking Division 1st Prize** 
+- 2024.11. | 🧪 **The 2nd Startup Idea Competition - Excellence Award** 
+- 2024.09. | 🔠 **The 1st Honam SW Startup Idea Competition - Encouragement Prize** 
+- 2023.12. | 📖 **2023 Convergence Idea Contest - Grand Prize**
+- 2023.01. | 🧑🏻‍💼 **2023 KPMG Ideathon: From Ideas to Prototypes - Top 11 Finalist** 
+- 2022.12. | 🕹️ **2022 MAPLESTORY WORLDS X LIKLION SUPER HACKATHON - Outstanding Developer Award**
 <br/>
 
 ## 📁 Clubs
