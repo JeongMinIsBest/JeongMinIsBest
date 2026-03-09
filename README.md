@@ -16,7 +16,7 @@
 <br/>
 
 ## 👩🏻‍💻 Experience
-**AIFFEL RESEARCH 14th | MODULABS | 2025.07. - 2026.01.**
+**AIFFEL Research 14th | MODULABS | 2025.07. - 2026.01.**
 - Implemented Transformer-based NLP systems (chatbot, Korean–English machine translation)
 - Built a Mini-BERT model from scratch to understand the architecture and training pipeline of BERT
 - Fine-tuned pre-trained language models (KLUE/BERT-base) using Hugging Face Transformers for domain-specific NLP tasks
