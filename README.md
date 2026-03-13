@@ -59,7 +59,7 @@
 - **Programming Languages**: Python, Java, JavaScript, C, Dart, C++, C#, HTML, CSS
 - **Machine Learning & Data Science**: NumPy, Pandas, Scikit-learn, PyTorch, Seaborn, Tensorflow, Keras
 - **Natural Language Processing**: KoBERT, KoBART, Hugging Face Transformers
-- **Frameworks & Tools**: Jupyter Notebook, Google Colab, Git, React, Flutter, Next.js, Node.js, Fast API
+- **Frameworks & Tools**: Jupyter Notebook, Google Colab, Git, React, Flutter, Node.js, Fast API
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=588beb)
