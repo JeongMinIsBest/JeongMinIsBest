@@ -35,7 +35,7 @@
 - 2026.02. | 📡 **[Excellence Award] 2026 Jeju · AWS Global Space Challenge Hackathon**
 - 2025.08. | 🏦 **[National Finalist & Awardee] 2025 FIN:NECT Challenge**
 - 2025.07. | 🧑🏻‍🌾 **[Idea Division Excellence Award] 2025 Jeonbuk State Public Data Utilization Start-up Competition** 
-- 2025.04. | 🩺 **[Finalist (Onsite Round)] LG Aimers the 6th AI Hackathon for Predicting Pregnancy Success in Infertility Patients** 
+- 2025.04. | 🩺 **[Finalist] LG Aimers the 6th AI Hackathon for Predicting Pregnancy Success in Infertility Patients** 
 - 2024.12. | ✈️ **[Grand Prize] 2024 Culture, Sports and Tourism Data Utilization Competition** 
 - 2024.12. | 🚮 **[Woori Bank President’s Award] The 2nd Jeonbuk Youth Big Data Competition** 
 - 2024.11. | 💙 **[COSS Chairman’s Award] 2024 CO-SHOW** 
