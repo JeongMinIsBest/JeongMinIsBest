@@ -2,17 +2,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
 
 ## ⭐ Hi, I'm JeongMin Lim
-> I'm a researcher interested in Natural Language Processing and multilingual language technologies.  
-> My work explores linguistic structure under practical AI constraints, especially in multilingual and low-resource settings.  
-> I enjoy turning research ideas into working systems, from NLP models to end-to-end ML pipelines.
+> Aspiring NLP & speech-language AI researcher.
+> Exploring multilingual modeling, Korean NLP, and trustworthy AI.
+> Building practical AI systems from research ideas.
+> Incoming MSc student in Speech and Language Processing at the University of Edinburgh.
   
 - Sharing projects and updates at https://jeongminisbest.github.io/
 - Technical notes at https://ljm1614.tistory.com/
 <br/>
 
 ## 🎓 Education
-- Bachelor of Arts, Dept. of English Language and English Literature, JeonBuk National University
-- Bachelor of Science and Engineering, Dept. of Computer Science and Engineering, JeonBuk National University
+University of Edinburgh (2026.09. – 2027.08.)
+- M.Sc. in Speech and Language Processing
+
+Jeonbuk National University (2020.03. - 2025.08.)
+- B.A. in English Language and English Literature
+- B.S. in Computer Science and Engineering
 <br/>
 
 ## 👩🏻‍💻 Experience
