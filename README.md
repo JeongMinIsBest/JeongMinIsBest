@@ -13,7 +13,7 @@
 
 ## 🎓 Education
 University of Edinburgh (2026.09. – 2027.08.)
-- M.Sc. in Speech and Language Processing
+- M.S. in Speech and Language Processing
 
 Jeonbuk National University (2020.03. - 2025.08.)
 - B.A. in English Language and English Literature
