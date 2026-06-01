@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
 
 ## ⭐ Hi, I'm JeongMin Lim
-> Aspiring NLP & speech-language AI researcher.
-> Exploring multilingual modeling, Korean NLP, and trustworthy AI.
-> Building practical AI systems from research ideas.
+> Aspiring NLP & speech-language AI researcher.  
+> Exploring multilingual modeling, Korean NLP, and trustworthy AI.  
+> Building practical AI systems from research ideas.  
 > Incoming MSc student in Speech and Language Processing at the University of Edinburgh.
   
 - Sharing projects and updates at https://jeongminisbest.github.io/
