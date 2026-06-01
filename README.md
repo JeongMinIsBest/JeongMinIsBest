@@ -5,7 +5,7 @@
 > Aspiring NLP & speech-language AI researcher.  
 > Exploring multilingual modeling, Korean NLP, and trustworthy AI.  
 > Building practical AI systems from research ideas.  
-> Incoming MSc student in Speech and Language Processing at the University of Edinburgh.
+> Incoming Master's student in Speech and Language Processing at the University of Edinburgh.
   
 - Sharing projects and updates at https://jeongminisbest.github.io/
 - Technical notes at https://ljm1614.tistory.com/
